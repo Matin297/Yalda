@@ -139,7 +139,7 @@ h2 > span {
   }
 
   50% {
-    transform: rotate(180deg) scale(1.5);
+    transform: rotate(180deg);
     margin-top: 3rem;
   }
 
