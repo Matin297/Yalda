@@ -6,7 +6,7 @@ html {
 
 body {
   font-family: "Indie Flower", cursive;
-  /* overflow: hidden; */
+  padding-bottom: 10rem;
 }
 
 * {
@@ -21,6 +21,7 @@ h2 {
 h1 {
   padding-top: 2rem;
   font-size: 4rem;
+  word-break: break-word;
   background-image: linear-gradient(to right, #760303, #e3192a);
   background-clip: text;
   color: transparent;
